@@ -1,0 +1,29 @@
+[
+  {
+    "id": "svc-001",
+    "name": "Edhi Ambulance Garden Response Point",
+    "type": "ambulance",
+    "lat": 24.8669,
+    "lng": 67.0246,
+    "phone": "115",
+    "services": ["ambulance", "first_response", "patient_transport", "mass_casualty_support"]
+  },
+  {
+    "id": "svc-002",
+    "name": "Civil Hospital Karachi Emergency Wing",
+    "type": "hospital",
+    "lat": 24.8617,
+    "lng": 67.0129,
+    "phone": "+92-21-99215960",
+    "services": ["emergency_room", "trauma_care", "surgery", "blood_bank", "burn_stabilization"]
+  },
+  {
+    "id": "svc-003",
+    "name": "Jinnah Postgraduate Medical Centre Coordination Desk",
+    "type": "hospital",
+    "lat": 24.8708,
+    "lng": 67.0218,
+    "phone": "+92-21-99201300",
+    "services": ["emergency_room", "cardiac_support", "trauma_care", "critical_care"]
+  }
+]

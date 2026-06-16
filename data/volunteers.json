@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vol-001",
+    "name": "Ayesha Khan",
+    "skills": ["CPR", "bleeding_control", "basic_life_support"],
+    "lat": 24.8662,
+    "lng": 67.0239,
+    "area": "Garden East",
+    "phone": "+92-300-555-0101",
+    "availability": "available"
+  },
+  {
+    "id": "vol-002",
+    "name": "Bilal Ahmed",
+    "skills": ["first_aid", "burn_care", "triage"],
+    "lat": 24.8648,
+    "lng": 67.0207,
+    "area": "Garden West",
+    "phone": "+92-301-555-0102",
+    "availability": "available"
+  },
+  {
+    "id": "vol-003",
+    "name": "Sana Qureshi",
+    "skills": ["CPR", "AED", "trauma_support"],
+    "lat": 24.8681,
+    "lng": 67.0261,
+    "area": "Soldier Bazaar near Garden",
+    "phone": "+92-302-555-0103",
+    "availability": "on_call"
+  }
+]

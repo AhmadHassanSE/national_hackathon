@@ -1,0 +1,23 @@
+CATEGORY: Cardiac Event
+SEVERITY: 5
+KEYWORDS: heart attack, cardiac arrest, chest pain, CPR, unconscious, no pulse, saans nahi aa rahi, dil ka dorah, seene mein dard, behoshi, dharkan band
+DESCRIPTION: A possible life-threatening heart emergency involving chest pain, collapse, irregular breathing, absent pulse, or sudden unconsciousness. Immediate recognition and CPR can preserve brain function while ambulance support is dispatched.
+FIRST_RESPONSE: Check responsiveness and breathing, call emergency services immediately, start hands-only CPR if the person is unresponsive and not breathing normally.
+
+CATEGORY: Severe Bleeding
+SEVERITY: 4
+KEYWORDS: bleeding, blood, wound, cut, accident, trauma, khoon, zakhm, khoon beh raha hai, gehra cut, chot, fracture
+DESCRIPTION: Heavy external bleeding from injury, road accident, glass, machinery, or violence. Rapid blood loss can cause shock, confusion, collapse, and death if pressure is not applied quickly.
+FIRST_RESPONSE: Apply firm direct pressure on the wound with clean cloth or gauze and keep pressure continuous while arranging urgent transport.
+
+CATEGORY: Gas Leak
+SEVERITY: 4
+KEYWORDS: gas leak, smell, cylinder, stove, fire risk, explosion, sui gas, gas ki boo, cylinder leak, chulha, dhuaan, saans mein jalan
+DESCRIPTION: Suspected natural gas or LPG leak in a home, shop, kitchen, apartment building, or street line. Gas accumulation can cause poisoning, fire, or explosion, especially in enclosed spaces.
+FIRST_RESPONSE: Do not switch electrical devices on or off; evacuate people, open doors/windows if safe, shut off the gas source if reachable, and call utility/fire response.
+
+CATEGORY: Burn Injury
+SEVERITY: 3
+KEYWORDS: burn, fire, hot water, steam, oil, chemical burn, jalna, aag, garam pani, tezaab, jalan, blister
+DESCRIPTION: Skin or tissue damage from flame, hot liquid, steam, chemicals, electricity, or explosion. Severity increases with face, hands, airway, genitals, large body area, children, elderly, or electrical/chemical exposure.
+FIRST_RESPONSE: Cool the burn under clean running water for at least 20 minutes, remove tight items near the injury, and do not apply toothpaste, oil, ghee, or ice.
