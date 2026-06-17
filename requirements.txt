@@ -1,0 +1,11 @@
+crewai
+langchain
+langchain-google-genai
+langchain-text-splitters
+google-genai
+gradio
+python-dotenv
+folium
+fastapi
+uvicorn
+python-multipart

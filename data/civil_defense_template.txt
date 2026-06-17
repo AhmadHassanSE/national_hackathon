@@ -1,0 +1,74 @@
+CIVIL DEFENSE SITUATION REPORT – PAKISTAN EMERGENCY RESPONSE
+
+REPORT ID: [auto-generated]
+DATE: [current date and time]
+CLASSIFICATION: URGENT – MASS EVENT PROTOCOL
+
+SECTION 1 – INCIDENT OVERVIEW
+Incident Type: [emergency type]
+Cluster Size: [number] confirmed incidents
+Affected Area: [area name], [city]
+Report Time: [timestamp]
+
+SECTION 2 – SITUATION ASSESSMENT
+Multiple related emergency events have been detected within a 1 km radius
+within a 5-minute window. This pattern indicates a potential mass casualty
+event requiring coordinated multi-agency response.
+
+SECTION 3 – RECOMMENDED RESPONSE LEVEL
+Level 1: Local response sufficient
+Level 2: District-level coordination required
+Level 3: Provincial / NDMA escalation required
+
+Recommended Level: [response level]
+
+SECTION 4 – SUGGESTED RESOURCES
+- Ambulance staging: [number] units
+- Hospital pre-alert: [names of nearest hospitals]
+- Volunteer mobilization: [number] volunteers in affected area
+- Fire / Rescue: [as applicable]
+- Police / Security cordon: [as applicable]
+
+SECTION 5 – COMMAND & COMMUNICATIONS
+Lead Agency: [designated lead]
+Radio Channel: [channel]
+Medical Command: [hospital name]
+On-scene Commander: [name / pending]
+
+--- URDU TRANSLATION ---
+
+شہری دفاعی صورتحال رپورٹ – پاکستان ایمرجنسی رسپانس
+
+رپورٹ آئی ڈی: [خودکار]
+تاریخ: [موجودہ تاریخ اور وقت]
+درجہ بندی: فوری – بڑے پیمانے پر واقعہ پروٹوکول
+
+سیکشن 1 – واقعہ کا جائزہ
+واقعہ کی قسم: [ایمرجنسی کی قسم]
+کلسٹر سائز: [تعداد] تصدیق شدہ واقعات
+متاثرہ علاقہ: [علاقے کا نام]، [شہر]
+رپورٹ کا وقت: [ٹائم سٹیمپ]
+
+سیکشن 2 – صورتحال کا جائزہ
+متعلقہ ایمرجنسی کے متعدد واقعات 1 کلومیٹر کے دائرے میں 5 منٹ کے اندر پائے گئے ہیں۔
+یہ پیٹرن ایک بڑے پیمانے پر حادثے کے امکان کو ظاہر کرتا ہے جس کے لیے مربوط کثیر ادارہ جاتی ردعمل کی ضرورت ہے۔
+
+سیکشن 3 – تجویز کردہ رسپانس لیول
+لیول 1: مقامی ردعمل کافی ہے
+لیول 2: ضلعی سطح پر رابطہ درکار ہے
+لیول 3: صوبائی / این ڈی ایم اے کی سطح پر کارروائی درکار ہے
+
+تجویز کردہ لیول: [رسپانس لیول]
+
+سیکشن 4 – تجویز کردہ وسائل
+- ایمبولینس اسٹیجنگ: [تعداد] یونٹس
+- ہسپتال سے قبل از اطلاع: [قریبی ہسپتالوں کے نام]
+- رضاکاروں کو متحرک کرنا: [تعداد] متاثرہ علاقے میں رضاکار
+- فائر / ریسکیو: [حسب ضرورت]
+- پولیس / سیکیورٹی کورڈن: [حسب ضرورت]
+
+سیکشن 5 – کمانڈ اور کمیونیکیشن
+سرکردہ ایجنسی: [نامزد کردہ لیڈ]
+ریڈیو چینل: [چینل]
+میڈیکل کمانڈ: [ہسپتال کا نام]
+موقع پر کمانڈر: [نام / زیر التوا]

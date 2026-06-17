@@ -1,0 +1,63 @@
+[
+  {
+    "time": "22:14",
+    "area": "Garden East",
+    "type": "Gas Leak",
+    "severity": 4,
+    "lat": 24.8662,
+    "lng": 67.0239
+  },
+  {
+    "time": "22:16",
+    "area": "Garden West",
+    "type": "Gas Leak",
+    "severity": 4,
+    "lat": 24.8648,
+    "lng": 67.0207
+  },
+  {
+    "type": "Cardiac Event",
+    "severity": 5,
+    "area": "Garden, Karachi",
+    "lat": 24.8665,
+    "lng": 67.0235,
+    "user_message": "I am having heavy chest pain and difficulty breathing",
+    "time": "01:37"
+  },
+  {
+    "type": "Cardiac Event",
+    "severity": 5,
+    "area": "Garden, Karachi",
+    "lat": 24.8665,
+    "lng": 67.0235,
+    "user_message": "my father is collapsed, having massive heart attack",
+    "time": "01:53"
+  },
+  {
+    "type": "Road Accident",
+    "severity": 4,
+    "area": "I-8, Islamabad",
+    "lat": 33.717999,
+    "lng": 73.03302,
+    "user_message": "Aoa, an accident has happened. the car was hit by a truck. and the car is crushed",
+    "time": "01:55"
+  },
+  {
+    "type": "General Emergency",
+    "severity": 3,
+    "area": "G-9, Islamabad",
+    "lat": 33.65583999999999,
+    "lng": 73.01643349999999,
+    "user_message": "[Audio Report Saved]",
+    "time": "09:20"
+  },
+  {
+    "type": "Burn Injury",
+    "severity": 3,
+    "area": "Garden, Karachi",
+    "lat": 24.8665,
+    "lng": 67.0235,
+    "user_message": "fire in Gulshan",
+    "time": "09:50"
+  }
+]

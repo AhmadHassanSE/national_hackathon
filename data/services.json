@@ -1,0 +1,222 @@
+[
+  {
+    "id": "svc-001",
+    "name": "Aga Khan University Hospital",
+    "type": "hospital",
+    "lat": 24.8615,
+    "lng": 67.0632,
+    "phone": "+92-21-34861111",
+    "services": ["emergency_room", "cardiac_support", "trauma_care", "surgery", "blood_bank", "burn_stabilization"],
+    "region": "karachi",
+    "area": "Saddar"
+  },
+  {
+    "id": "svc-002",
+    "name": "Jinnah Postgraduate Medical Centre (JPMC)",
+    "type": "hospital",
+    "lat": 24.8708,
+    "lng": 67.0218,
+    "phone": "+92-21-99201300",
+    "services": ["emergency_room", "cardiac_support", "trauma_care", "critical_care", "surgery"],
+    "region": "karachi",
+    "area": "Garden"
+  },
+  {
+    "id": "svc-003",
+    "name": "Civil Hospital Karachi",
+    "type": "hospital",
+    "lat": 24.8617,
+    "lng": 67.0129,
+    "phone": "+92-21-99215960",
+    "services": ["emergency_room", "trauma_care", "surgery", "blood_bank", "burn_stabilization"],
+    "region": "karachi",
+    "area": "Saddar"
+  },
+  {
+    "id": "svc-004",
+    "name": "Liaquat National Hospital",
+    "type": "hospital",
+    "lat": 24.8770,
+    "lng": 67.0412,
+    "phone": "+92-21-34400500",
+    "services": ["emergency_room", "cardiac_support", "surgery", "critical_care"],
+    "region": "karachi",
+    "area": "Gulshan"
+  },
+  {
+    "id": "svc-005",
+    "name": "Dr. Ziauddin Hospital Clifton",
+    "type": "hospital",
+    "lat": 24.8325,
+    "lng": 67.0430,
+    "phone": "+92-21-35862741",
+    "services": ["emergency_room", "cardiac_support", "pediatric_er"],
+    "region": "karachi",
+    "area": "Clifton"
+  },
+  {
+    "id": "svc-006",
+    "name": "Edhi Ambulance Garden Response Point",
+    "type": "ambulance",
+    "lat": 24.8669,
+    "lng": 67.0246,
+    "phone": "115",
+    "services": ["ambulance", "first_response", "patient_transport", "mass_casualty_support"],
+    "region": "karachi",
+    "area": "Garden"
+  },
+  {
+    "id": "svc-007",
+    "name": "Edhi Ambulance Gulshan-e-Iqbal",
+    "type": "ambulance",
+    "lat": 24.9100,
+    "lng": 67.0900,
+    "phone": "115",
+    "services": ["ambulance", "first_response", "patient_transport"],
+    "region": "karachi",
+    "area": "Gulshan"
+  },
+  {
+    "id": "svc-008",
+    "name": "Edhi Ambulance North Nazimabad",
+    "type": "ambulance",
+    "lat": 24.9300,
+    "lng": 67.0400,
+    "phone": "115",
+    "services": ["ambulance", "first_response", "patient_transport"],
+    "region": "karachi",
+    "area": "North Nazimabad"
+  },
+  {
+    "id": "svc-009",
+    "name": "Rescue 1122 Karachi HQ",
+    "type": "rescue",
+    "lat": 24.8800,
+    "lng": 67.0300,
+    "phone": "1122",
+    "services": ["rescue", "ambulance", "fire", "disaster_response"],
+    "region": "karachi",
+    "area": "Garden"
+  },
+  {
+    "id": "svc-010",
+    "name": "Karachi Fire Brigade HQ Saddar",
+    "type": "fire",
+    "lat": 24.8550,
+    "lng": 67.0050,
+    "phone": "16",
+    "services": ["fire_response", "rescue", "hazmat"],
+    "region": "karachi",
+    "area": "Saddar"
+  },
+  {
+    "id": "svc-011",
+    "name": "Shifa International Hospital",
+    "type": "hospital",
+    "lat": 33.7172,
+    "lng": 73.0593,
+    "phone": "+92-51-4344777",
+    "services": ["emergency_room", "cardiac_support", "trauma_care", "surgery", "critical_care"],
+    "region": "islamabad",
+    "area": "Blue Area"
+  },
+  {
+    "id": "svc-012",
+    "name": "Pakistan Institute of Medical Sciences (PIMS)",
+    "type": "hospital",
+    "lat": 33.6933,
+    "lng": 73.0586,
+    "phone": "+92-51-9217240",
+    "services": ["emergency_room", "trauma_care", "surgery", "blood_bank", "burn_stabilization", "critical_care"],
+    "region": "islamabad",
+    "area": "G-8"
+  },
+  {
+    "id": "svc-013",
+    "name": "Rawalpindi General Hospital",
+    "type": "hospital",
+    "lat": 33.6010,
+    "lng": 73.0510,
+    "phone": "+92-51-5460141",
+    "services": ["emergency_room", "trauma_care", "surgery", "critical_care"],
+    "region": "rawalpindi",
+    "area": "Saddar"
+  },
+  {
+    "id": "svc-014",
+    "name": "Benazir Bhutto Hospital",
+    "type": "hospital",
+    "lat": 33.5980,
+    "lng": 73.0460,
+    "phone": "+92-51-5567537",
+    "services": ["emergency_room", "cardiac_support", "trauma_care", "surgery"],
+    "region": "rawalpindi",
+    "area": "Saddar"
+  },
+  {
+    "id": "svc-015",
+    "name": "Holy Family Hospital Rawalpindi",
+    "type": "hospital",
+    "lat": 33.6080,
+    "lng": 73.0380,
+    "phone": "+92-51-5562344",
+    "services": ["emergency_room", "pediatric_er", "maternity", "surgery"],
+    "region": "rawalpindi",
+    "area": "Westridge"
+  },
+  {
+    "id": "svc-016",
+    "name": "Edhi Ambulance Blue Area Islamabad",
+    "type": "ambulance",
+    "lat": 33.7167,
+    "lng": 73.0587,
+    "phone": "115",
+    "services": ["ambulance", "first_response", "patient_transport"],
+    "region": "islamabad",
+    "area": "Blue Area"
+  },
+  {
+    "id": "svc-017",
+    "name": "Edhi Ambulance Saddar Rawalpindi",
+    "type": "ambulance",
+    "lat": 33.6000,
+    "lng": 73.0500,
+    "phone": "115",
+    "services": ["ambulance", "first_response", "patient_transport"],
+    "region": "rawalpindi",
+    "area": "Saddar"
+  },
+  {
+    "id": "svc-018",
+    "name": "Rescue 1122 Islamabad",
+    "type": "rescue",
+    "lat": 33.6900,
+    "lng": 73.0550,
+    "phone": "1122",
+    "services": ["rescue", "ambulance", "disaster_response"],
+    "region": "islamabad",
+    "area": "G-8"
+  },
+  {
+    "id": "svc-019",
+    "name": "Rescue 1122 Rawalpindi",
+    "type": "rescue",
+    "lat": 33.5950,
+    "lng": 73.0480,
+    "phone": "1122",
+    "services": ["rescue", "ambulance", "fire", "disaster_response"],
+    "region": "rawalpindi",
+    "area": "Saddar"
+  },
+  {
+    "id": "svc-020",
+    "name": "Islambad Fire Brigade HQ",
+    "type": "fire",
+    "lat": 33.7160,
+    "lng": 73.0610,
+    "phone": "16",
+    "services": ["fire_response", "rescue", "hazmat"],
+    "region": "islamabad",
+    "area": "Blue Area"
+  }
+]
